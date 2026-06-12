@@ -33,19 +33,19 @@
 
 # About Me
 
-Hi, I'm **Shachi** — a CSIT undergraduate at **KIET Group of Institutions** passionate about backend engineering, Linux, systems programming, competitive programming, and open source.
+Hi, I'm **Shachi** — a Biotechnology undergraduate at **MOTILAL NEHRU NATIONAL INSTITUTE OF TECHNOLOGY(MNNIT)** passionate about web development, competitive programming, designing.
 
-I enjoy building efficient software, exploring low-level concepts, and continuously improving my problem-solving skills through projects and competitive programming.
+I enjoy solving challenging problems and building practical, user-focused applications that address real-world needs. Currently, I am focused on strengthening my skills in C++, Data Structures & Algorithms, Backend Development, Linux, Git, while working on projects and exploring open-source contributions.
 
-Currently focused on mastering Modern C++, Data Structures & Algorithms, Backend Development, Linux, Git, Docker, and System Design while building practical projects and contributing to open source.
 
 ### Open To
 
-* Backend Engineering
-* Open Source Contributions
-* Hackathons
-* Research Collaborations
 * Software Engineering Internships
+* Open Source Contributions
+* Competitive Programming
+* Hackathons
+* Backend Development
+* Real-World Project Collaborations
 
 ---
 
@@ -55,11 +55,11 @@ Currently focused on mastering Modern C++, Data Structures & Algorithms, Backend
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python"/>
 
 </p>
 
-## Frontend
+<!-- ## Frontend
 
 <p>
 
@@ -71,32 +71,20 @@ Currently focused on mastering Modern C++, Data Structures & Algorithms, Backend
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres"/>
+<img src="https://skillicons.dev/icons?i=nodejs,mysql"/>
 
-</p>
+</p> -->
 
 ## Cloud • DevOps • Tooling
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
 
 </p>
 
----
-
-# AI Learning Journey
-
-
-Although my primary focus is backend engineering and systems programming, I'm actively exploring AI through projects, hackathons, and modern developer tools.
-
-| Domain | Status | Details |
-|----------|----------|----------|
-| AI Applications | Learning | Building practical AI-powered software |
-| LLM Integration | Learning | Exploring LLM APIs and AI-assisted workflows |
-| Disaster Management | Building | Developing **Sentinel AI** for hackathon |
-| AI Tooling | Exploring | Experimenting with developer-focused AI solutions |
----
+<!-- --- -->
+<!-- 
 # Featured Projects
 
 <details>
@@ -111,13 +99,13 @@ An ongoing hackathon project focused on leveraging artificial intelligence to im
 | Performance | Work In Progress                       |
 | Security    | Under Development                      |
 | Impact      | Disaster Response Assistance           |
-| Repository  | https://github.com/wagrude/sentinel-ai |
+| Repository  | https://github.com/shachi17/sentinel-ai |
 
 Designed to explore intelligent assistance for emergency coordination while emphasizing scalability and practical deployment.
 
-</details>
+</details> -->
 
----
+<!-- --- -->
 
 # Open Source
 
@@ -136,17 +124,17 @@ Areas of interest:
 
 # Coding Profiles
 
-<a href="https://leetcode.com/u/Wagrude/">
-<img src="https://img.shields.io/badge/LeetCode-Wagrude-orange?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/Shachi_17/">
+<img src="https://img.shields.io/badge/LeetCode-Shachi-blue?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.codechef.com/users/wagrude">
-<img src="https://img.shields.io/badge/CodeChef-Wagrude-brown?style=for-the-badge&logo=codechef"/>
+<a href="https://www.codechef.com/users/shachi_17">
+<img src="https://img.shields.io/badge/CodeChef-SHACHI-brown?style=for-the-badge&logo=codechef"/>
 </a>
 
-<a href="https://codolio.com/profile/wagrude">
+<!-- <a href="https://codolio.com/profile/shachi17">
 <img src="https://img.shields.io/badge/Codolio-Profile-000000?style=for-the-badge"/>
-</a>
+</a> -->
 
 ---
 
@@ -154,15 +142,15 @@ Areas of interest:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wagrude&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shachi17&show_icons=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagrude&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shachi17&layout=compact&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=wagrude&theme=github_dark"/>
+<img src="https://streak-stats.demolab.com?user=shachi17&theme=github_dark"/>
 
 </p>
 
@@ -172,7 +160,7 @@ Areas of interest:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=wagrude&theme=github_dark&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shachi17&theme=github_dark&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -182,13 +170,13 @@ Areas of interest:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wagrude&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shachi17&theme=github-dark"/>
 
 </p>
 
 ---
 
-# Current Focus
+<!-- # Current Focus
 
 ```yaml
 Learning:
@@ -215,14 +203,13 @@ Open To:
   - Collaborations
 ```
 
----
+--- -->
 
 # Connect
 
-* GitHub: https://github.com/wagrude
-* LinkedIn: https://www.linkedin.com/in/shivansh-srivastava-64a66a381/
-* Email: [shivansh.work.college@gmail.com](mailto:shivansh.work.college@gmail.com)
-* Codolio: https://codolio.com/profile/wagrude
+* GitHub: https://github.com/shachi17/
+* LinkedIn: (https://www.linkedin.com/in/shachi-tiwari-b4100b379/)
+* Email: [shachi3026@gmail.com](mailto:shachi3026@gmail.com)
 
 ---
 
