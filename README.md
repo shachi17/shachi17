@@ -6,8 +6,6 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/Linux-Daily%20Driver-111111?style=for-the-badge&logo=linux&logoColor=white"/>
-
 <a href="https://www.linkedin.com/in/shachi-tiwari-b4100b379/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-000000?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -20,6 +18,7 @@
 <img src="https://img.shields.io/badge/GitHub-Shachi-000000?style=for-the-badge&logo=github"/>
 </a>
 
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=shachi17&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
