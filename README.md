@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:202020,100:404040&text=Shachi&fontSize=55&fontColor=FFFFFF&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=900&lines=Exploring+DSA+and+Development;Linux;"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=900&lines=Exploring+DSA+and+Development;"/>
 
 <p>
 
@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/GitHub-Shachi-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=shachi17&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
