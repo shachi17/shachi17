@@ -6,16 +6,13 @@
 
 <p>
 
-
-<img src="https://img.shields.io/badge/GSSoC-Contributor-000000?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Linux-Daily%20Driver-111111?style=for-the-badge&logo=linux&logoColor=white"/>
 
 <a href="https://www.linkedin.com/in/shachi-tiwari-b4100b379/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-000000?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:shachi3026@gmail.com">
+<a href="mailto:shachi.20250045@mnnit.ac.in">
 <img src="https://img.shields.io/badge/Email-Contact-222222?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -35,19 +32,7 @@
 
 Hi, I'm **Shachi** — a Biotechnology undergraduate at **MOTILAL NEHRU NATIONAL INSTITUTE OF TECHNOLOGY(MNNIT)** passionate about web development, competitive programming, designing.
 
-I enjoy solving challenging problems and building practical, user-focused applications that address real-world needs. Currently, I am focused on strengthening my skills in C++, Data Structures & Algorithms, Backend Development, Linux, Git, while working on projects and exploring open-source contributions.
-
-
-### Open To
-
-* Software Engineering Internships
-* Open Source Contributions
-* Competitive Programming
-* Hackathons
-* Backend Development
-* Real-World Project Collaborations
-
----
+I enjoy solving challenging problems and building practical, user-focused applications that address real-world needs. Currently, I am focused on strengthening my skills in C++, Data Structures & Algorithms, Backend Development, Linux, Git, while working on projects.
 
 # Tech Stack
 
