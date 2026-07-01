@@ -170,7 +170,7 @@ Open To:
 
 * GitHub: https://github.com/shachi17/
 * LinkedIn: (https://www.linkedin.com/in/shachi-tiwari-b4100b379/)
-* Email: [shachi3026@gmail.com](mailto:shachi3026@gmail.com)
+* Email: [shachi3026@gmail.com](mailto:shachi.20250045@mnnit.ac.in)
 
 ---
 
