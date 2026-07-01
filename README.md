@@ -129,16 +129,6 @@ Designed to explore intelligent assistance for emergency coordination while emph
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shachi17&theme=github_dark&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # Contribution Graph
 
 <p align="center">
