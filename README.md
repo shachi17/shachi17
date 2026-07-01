@@ -60,7 +60,7 @@ I enjoy solving challenging problems and building practical, user-focused applic
 
 </p> -->
 
-## Cloud • DevOps • Tooling
+## Tools
 
 <p>
 
@@ -92,18 +92,6 @@ Designed to explore intelligent assistance for emergency coordination while emph
 
 <!-- --- -->
 
-# Open Source
-
-### GirlScript Summer of Code (GSSoC)
-
-Open Source Contributor actively participating in collaborative development and community-driven projects.
-
-Areas of interest:
-
-* Backend Development
-* Documentation
-* Bug Fixes
-* Feature Development
 
 ---
 
