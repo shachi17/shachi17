@@ -99,10 +99,6 @@ Designed to explore intelligent assistance for emergency coordination while emph
 <img src="https://img.shields.io/badge/LeetCode-Shachi-blue?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.codechef.com/users/shachi_17">
-<img src="https://img.shields.io/badge/CodeChef-SHACHI-brown?style=for-the-badge&logo=codechef"/>
-</a>
-
 <!-- <a href="https://codolio.com/profile/shachi17">
 <img src="https://img.shields.io/badge/Codolio-Profile-000000?style=for-the-badge"/>
 </a> -->
