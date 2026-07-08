@@ -106,25 +106,6 @@ Designed to explore intelligent assistance for emergency coordination while emph
 <!-- <a href="https://codolio.com/profile/shachi17">
 <img src="https://img.shields.io/badge/Codolio-Profile-000000?style=for-the-badge"/>
 </a> -->
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shachi17&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shachi17&layout=compact&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shachi17&theme=github_dark"/>
-
-</p>
-
 ---
 
 # Contribution Graph
