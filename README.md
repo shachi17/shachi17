@@ -30,7 +30,7 @@
 
 Hi, I'm **Shachi** — a Biotechnology undergraduate at **MOTILAL NEHRU NATIONAL INSTITUTE OF TECHNOLOGY(MNNIT)** passionate about web development, competitive programming, designing.
 
-I enjoy solving challenging problems and building practical, user-focused applications that address real-world needs. Currently, I am focused on strengthening my skills in C++, Data Structures & Algorithms, Backend Development, Linux, Git, while working on projects.
+I enjoy solving challenging problems and building practical, user-focused applications that address real-world needs. Currently, I am focused on strengthening my skills in C++, Data Structures & Algorithms, Development, Linux, Git, while working on projects.
 
 # Tech Stack
 
