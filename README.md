@@ -62,7 +62,7 @@ I enjoy solving challenging problems and building practical, user-focused applic
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </p>
 
